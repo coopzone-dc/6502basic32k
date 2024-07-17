@@ -10,8 +10,9 @@ Wozmon prompts with a \ and a return:
 I have added a text reminder that tells you what to type to get the the software pakages in the ROM:
 
 
-<PWR up or RESET>
-        
+After a Power up/reset
+
+
 Apple 1 software mode
 
 E000R Run Krusaider ASM
@@ -31,14 +32,12 @@ The BASIC prompt is >
 you can now program in Apple BASIC, The folder conatins copies of the manual for WozMon, Krusaider and Apple BASIC
 
 NOTE: the address's in memory differ from the documentation, keep this in mind!
-
-        Original  this version
         
-  WozMon  FF00  FE00
+  WozMon  FF00(original)  FE00
   
-  BASIC    E000  C000
+  BASIC    E000(original)  C000
   
-  Krusaider  F000  E000
+  Krusaider  F000(original)  E000
   
 
   Some software from the APPLE 1 will not run, especially if it expects address's to be different. However some can be changed to work ok.
