@@ -46,13 +46,16 @@ NOTE: the address's in memory differ from the documentation, keep this in mind!
   As an example
   
   STARTREK2003.TXT is txt file in MON format, that means you can paste it into WozMon. The Last but one line of the file reads:
+  
   E2B3R - this tells WozMon to execute from E2B3 (integer basic warm start address) the R is the Run command
-  The address for this version of BASIC warm start is C2B3, so just change the last line to read C2B3R
+  
+  The address for this version of BASIC warm start is C2B3, so just change the last but one line to read C2B3R
+  
   like this:
   
 3FF8: AE 29 01 05 14 1E 51 01
 
-E2B3R
+E2B3R <- becomes C2B3R
 
 
 RUN
