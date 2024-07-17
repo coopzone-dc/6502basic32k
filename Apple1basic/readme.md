@@ -4,6 +4,7 @@ It boots to Apple 1 monitor, Know better by most as WozMon written originally by
 of Apple Computers.
 
 Wozmon prompts with a \ and a return:
+
 \
 
 I have added a text reminder that tells you what to type to get the the software pakages in the ROM:
