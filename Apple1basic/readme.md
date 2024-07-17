@@ -84,7 +84,7 @@ C2B3: 20
 >RUN                                                                            
                                                                                 
                                                                                 
-      S T A R T R E K  2 0 0 3                                                  
+S T A R T R E K  2 0 0 3                                                  
                                                                                 
                                                                                 
                                                                                 
