@@ -1,6 +1,6 @@
 This is a Rom image that uses modified versions of Apple 1 software, right the way back to 1976!
 
-It boots to Apple 1 monitor, Know better by most as WozMon written originally by Steve Wozniak
+It boots to Apple 1 monitor, Known better by most as WozMon written originally by Steve Wozniak
 of Apple Computers.
 
 Wozmon prompts with a \ and a return:
