@@ -4,5 +4,5 @@ Also the 16k Rom Image that has a Software Compatatble version of Apple 1 replic
 
 Rom Layout:
 
-|8k original Replica ROM|| 16k Rom for Grant's SBC|
+---|8k original Replica ROM|| 16k Rom for Grant's SBC|
 |E000- EFFF|Integer Basic||E000- EFFF|Intege Basic *|
