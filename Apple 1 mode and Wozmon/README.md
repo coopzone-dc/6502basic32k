@@ -6,7 +6,7 @@ Rom Layout:
 
 | 	8k original Replica ROM	 | 		 | 	16k Rom for Grant's SBC	 |  |
 | 	:-----:	 | 	:-----:	 | 	:-----:	 |  :-----: |
-| 	N/A	| 	N/A	| 	DFB8- DFFF	 | Emulated I/O for ACIA|
+| 	N/A	| 	N/A	| 	DFB8- DFFF	 | Emulated I/O for ACIA, "shims"|
 | 	E000- EFFF	| 	Integer Basic	| 	E000- EFFF	 | Integer Basic |
 | 	F000- FEFF	| 	Krusaider 1.2	| 	F000- FEFF	 | Krusadier 1.3 |
 
