@@ -12,3 +12,7 @@ Rom Layout:
 
 The copies of Krusader and Integer basic have been patched to use the "software Shims" in the DFxx part of the ROM to work with the ACIA.
 
+The software directory has a collection of original Apple 1 software, including FIGFORTH and CHESS. Some of the software has been patched to work with this ROM. The others, mostly BASIC, will just work anyway.
+
+You cut and paste them into the WozMon monitor. Don't forget to set the line/char delay values!
+
